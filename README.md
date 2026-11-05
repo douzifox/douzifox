@@ -7,7 +7,7 @@ That's how I shipped everything below.
 **[Awhile](https://apps.apple.com/us/app/awhile-native/id6804945726)** · AI friends that live on your phone. Native SwiftUI, on-device vector memory,
 bring your own API key, no server. Seven months from idea to the App Store.
 
-**[FoxPix 狐理狐图](https://foxpix.douzifox.com/en/)** · Finds the IDs, bank cards and logins hiding in your screenshots and locks them in a Keychain vault with AutoFill.
+**[FoxStash 狐理狐图](https://foxstash.douzifox.com/en/)** · Finds the IDs, bank cards and logins hiding in your screenshots and locks them in a Keychain vault with AutoFill.
 Sorts screenshots on-device; no server, nothing uploaded. iPhone, on the App Store.
 
 **[FoxAgent](https://github.com/douzifox/foxagent)** · A persistent execution layer for Claude Code.
